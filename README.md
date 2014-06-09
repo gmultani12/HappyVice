@@ -1,9 +1,3 @@
-# RVG.ME Example Application
+Happy Vice Application
 
-Run these commands:
-
-    bundle
-    rake db:setup
-    rails s
-
-This application was built with Ruby v2.
+Application Build with Ruby on Rails
