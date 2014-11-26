@@ -33,6 +33,16 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem 'devise'
+
+gem 'omniauth'
+
+gem 'omniauth-twitter'
+
+gem 'omniauth-facebook'
+
+gem 'omniauth-linkedin'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
